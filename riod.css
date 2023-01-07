@@ -1,0 +1,519 @@
+.header
+{
+
+   background:goldenrod;
+  max-width: 100%;
+  height: 80px;
+  display: flex;
+   
+}
+
+body
+{
+ margin: 0px;
+overflow-x: hidden;
+}
+
+.logo-img{
+
+  max-height: 48px;
+  width: 100px;
+  padding-left: 28px;
+  padding-top: 20px;
+}
+
+.sensor-logo
+{ transform: translate(-50%,-50%);
+  max-height: 207px;
+  width: 235px;
+  padding-left: 88px;
+  padding-top: 1px;
+}
+.sensor
+{
+  position:absolute;
+  top: 40%;
+  left: 70%;
+
+}
+
+a{
+  color: #000;
+  text-decoration: none;
+  
+  
+}
+.display
+{font-weight:bold;
+  font-size: 20px;
+  padding-left: 829px;
+  padding-top: 22px;
+}
+#title
+{
+  font-size: bold;
+  font-size: 73px;
+    padding-left: 148px;
+}
+#first
+{
+ padding: 10px;
+  font-size: 47px;
+  font-weight: bold;
+}
+#second
+{
+  font-size: 23px;
+  line-height: 31px;
+}
+.line-body
+{
+  padding-top: 24px;
+  padding-left: 100px;
+}
+.inner-body
+{
+  
+  padding-left: 100px;
+    padding-top: 24px;
+  
+}
+.button
+{
+  position: relative;
+  left: 215px;
+  top: 50px;
+  font-size: 20px;
+  color:white;
+  background-color: blue;
+  
+}
+.botton-sc
+{ 
+  position: absolute;
+  top: 60%;
+  left: 50%;
+}
+.outer body
+{
+  max-height: 100%;
+  width: 100%;
+  background:blueviolet;
+}
+.para1
+{
+  color: rgb(0, 0, 0);
+    position: absolute;
+    top: 83%;
+    left: 43%;
+    font-size: 189%;
+    font-weight: bold;
+}
+.para2
+{
+  color: #000;
+    position: absolute;
+    top: 96%;
+    left: 32%;
+    font-size: 102%;
+    line-height: 21px;
+    font-weight: inherit;
+}
+.inner-box
+{ max-width: 30%;
+  margin-right: 20%;
+  box-shadow: grey 20px 20px 10px;
+  position: absolute;
+  top: 136%;
+  left: 1%;
+
+}
+
+.box .inner-box .title
+{
+  color: #000;
+  position: relative;
+  top: 77%;
+  left: -5%;
+}
+.box .inner-box .para 
+{
+  padding-left: 1px;
+  padding-top: 2px;
+}
+
+  
+.second-box
+{max-width: 100%;
+  margin-right: 21%;
+  box-shadow: grey 20px 20px 10px;
+  position: absolute;
+  top: 136%;
+  left: 35%;
+  right: 170px;
+  height: 308px;
+
+}
+.box
+{
+  display: flex;
+}
+.para3
+{
+  text-align: center;
+}
+.third-box
+{
+  width:  100%;
+  margin-right: 26%;
+  box-shadow:  20px 20px 10px grey;
+  position: absolute;
+  top: 136%;
+  left: 76%;
+  height: 295px;
+
+}
+.live
+{
+  padding-top: 902px;
+    padding-left: 668px;
+}
+#paralive
+{
+  padding-left: 694px;
+    padding-top: 5px;
+    text-align: 2px;
+
+}
+.icon4
+{
+  position: absolute;
+    top: 1434px;
+    left: 16px;
+}
+.Riod-live1
+{ padding-top: 10px;
+  display: flex;
+    position: absolute;
+    top: 1796px;
+    left: 725px;
+
+
+}
+.machine
+{
+  padding-top: 10px;
+    padding-left: 103px;
+}
+.Riod-live2
+{
+  padding-top: 10px;
+    display: flex;
+    position: absolute;
+    top: 2217px;
+    left: 725px;
+}
+.perciption
+{
+  padding-left: 123px;
+}
+.button2
+{
+  background-color: blue;
+    color: white;
+    position: absolute;
+    top: 2603px;
+    left: 725px;
+    width: 135px;
+    height: 31px;
+}
+.production
+{
+  padding-top: 10px;
+    position: absolute;
+    top: 2647px;
+    left: 537px;
+}
+#product
+{
+  padding-left: -3px;
+    position: absolute;
+    font-size: 17px;
+    top: 83px;
+    left: -80px;
+    max-width: 497px;
+    line-height: 27px;
+}
+.icon10
+{
+ 
+  position: absolute;
+  top: 307px;
+  left: -44px;
+}
+.iconten
+{
+  padding-left: 10px;
+    height: 428px;
+    width: 499px;
+    position: absolute;
+    top: 7px;
+    left: -334px;
+}
+.icon11
+{
+  position: absolute;
+  top: 307px;
+  left: -44px;
+
+}
+.iconelevev
+{
+  padding-left: 10px;
+    height: 224px;
+    width: 200;
+    width: 200px;
+    position: absolute;
+    top: 7px;
+    left: 183px;
+
+}
+.icon12
+{
+  position: absolute;
+  top: 307px;
+  left: -44px;
+
+}
+.icontwelve
+{
+  padding-left: 10px;
+  height: 224px;
+  width: 200;
+  width: 200px;
+  position: absolute;
+  top: 11px;
+  left: 453px;
+}
+.icon13
+{
+  position: absolute;
+  top: 307px;
+  left: -44px;
+
+}
+.iconthirteen
+{
+  padding-left: 10px;
+    height: 224px;
+    width: 200;
+    width: 200px;
+    position: absolute;
+    top: 263px;
+    left: 191px;
+}
+.icon14
+{
+  position: absolute;
+  top: 307px;
+  left: -44px;
+
+}
+.iconfourteen
+{
+  padding-left: 10px;
+    height: 224px;
+    width: 200;
+    width: 200px;
+    position: absolute;
+    top: 289px;
+    left: 436px;
+}
+.contact
+{
+  position: absolute;
+  top: 1130;
+  top: 3500px;
+  left: 525px;
+
+}
+.contactpara
+{
+  position: absolute;
+  top: 3554px;
+  left: 479px;
+
+}
+
+
+.phone
+{
+  position: absolute;
+    top: 3598px;
+    left: 325px;
+    box-shadow: -6px 29px 0px ghostwhite;
+}
+
+
+
+
+
+.email
+{
+  position: absolute;
+  top: 3598px;
+  left: 626px;
+  box-shadow: -6px 29px 0px ghostwhite;
+}
+.adress
+{
+  position: absolute;
+  top: 3598px;
+  left: 872px;
+  box-shadow: -6px 29px 0px ghostwhite;
+}
+.details
+{
+  display: flex;
+}
+.form
+{
+  position: absolute;
+    top: 3822px;
+    width: 478px;
+    height: 348px;
+    left: 226px;
+    border-style: ridge;
+}
+.r
+{
+  position: absolute;
+    width: 78px;
+    top: 320px;
+    background-color: blue;
+    color: white;
+    left: 221px;
+}
+.b
+{
+  position: absolute;
+  width: 78px;
+  top: 322px;
+  left: 56px;
+
+}
+
+
+.format
+{
+  position: absolute;
+  top: 10px;
+  left: 2px;
+  box-shadow: -6px 29px 0px ghostwhite;
+  display: flex;
+
+}
+.name
+{
+  position: absolute;
+    top: 61px;
+    left: 105px;
+    height: 31px;
+    width: 203px;
+}
+.number
+{
+  position: absolute;
+  top: 106px;
+  left: 105px;
+  height: 31px;
+  width: 203px;
+}
+.company
+{
+  position: absolute;
+  top: 164px;
+  left: 122px;
+  height: 31px;
+  width: 203px;
+}
+.description
+{
+  position: absolute;
+    top: 242px;
+    left: 122px;
+    height: 57px;
+    width: 271px;
+}
+.emailtext
+{
+  position: absolute;
+    top: 163px;
+    left: 108px;
+    height: 38px;
+    width: 274px;
+}
+.companttext
+{
+  position: absolute;
+  top: 163px;
+  left: 108px;
+  height: 38px;
+  width: 274px;
+}
+.gap1
+{
+  position: absolute;
+    top: 69px;
+    left: 19px;
+}
+.gap2
+{
+  position: absolute;
+    top: 113px;
+    left: 19px;
+}
+
+.gap3
+{
+  position: absolute;
+    top: 255px;
+    left: 19px;
+}
+.gap4
+{
+  position: absolute;
+    top: 180px;
+    left: 19px;
+}
+
+.con{
+  position: absolute;
+    top: -4px;
+    left: 19px;
+
+}
+.google
+{
+  position: absolute;
+
+    top: 3823px;
+    left: 769px;
+
+}
+.footer
+{
+  position: absolute;
+  top: 4;
+  top: 4392px;
+  left: 510px;
+}
+p5
+{
+  position: absolute;
+    top: 105px;
+    width: 559px;
+    left: -93px;
+}
+
+
